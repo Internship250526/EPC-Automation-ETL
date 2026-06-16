@@ -1,0 +1,34 @@
+{
+  "master_file": "Quarterwise_Target_Master.xlsx",
+  "master_sheet": "Main Backup",
+  "unique_key": "APEX ID",
+  "output_folder": "PM_Files",
+
+  "pms": [
+    "Dyaneshwar Wagh",
+    "Jitendra Talreja",
+    "Arju Tiwari",
+    "Purushottam M",
+    "Gaurav Shinde",
+    "Santanu Halder",
+    "Saurav Sagar",
+    "Shanmuga Rajan",
+    "Teja Anvesh"
+  ],
+
+  "identifier_columns": [
+    "APEX ID", "Sl. No.", "Land ID", "9008 Store Code", "NP01 Site Code",
+    "Business Format", "Format", "Sub Format", "PM Head", "PM", "PM Planner",
+    "Site Type (Dehire/NSO/Refit)", "Zone", "ZH", "State", "Cluster", "EIC",
+    "Site Name", "City", "Area (Sqft)", "RFC Date", "Actual Start Date",
+    "Standard Duration", "Planned Finish Date"
+  ],
+
+  "editable_columns": [
+    "Forecasted Finish Date", "Actual Finish Date", "EPC Status (Current Week)",
+    "% Completion (Current Week)", "Remarks (Current Week)", "HOTO Date",
+    "Launch Date", "LAUNCHED / YTL", "Need Push / Sure", "Remarks",
+    "Target Date", "Target", "EPC Status (Last Week)",
+    "% Completion (Last Week)", "Remarks (Last Week)"
+  ]
+}
